@@ -1,0 +1,11 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+  "invalidUsername": "invalid",
+  "invalidPassword": "invalid123",
+  "newAdminUser": {
+    "employeeName": "John Doe",
+    "username": "jane_doe",
+    "password": "P@ssw0rd123"
+  }
+}
